@@ -2,9 +2,30 @@
 
 ## TIL : [Swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8/dashboard)
 
+### 12월 5일 화요일
+Part1. 변수와 상수 / 데이터 타입 (The Basics)
+- 변수와 상수 정리
+- Swift의 데이터 타입
+- 타입 주석 / 타입 추론 / 타입 안정성 / 타입 변환
+- 타입 애일리어스 / 경고와 오류
+
+> 스위프트는 문법에 대해 높은 이해도를 요하는 언어이다.
+- Type Annotation & Type Interface
+    
+    ```swift
+    // Annotation 명시적 선언.
+    var value:Int = 4
+    
+    // Interface 컴파일러가 타입을 추론.
+    var value = 4
+    ```
+    
+- 스위프트는 데이터 타입을 명확하게 구분하여 사용하는 언어이다. →
+
 ### 12월 4일 월요일
 Part1. 변수와 상수 / 데이터 타입 (The Basics)
 - 변수와 상수
+
 
 
 
