@@ -1,6 +1,9 @@
 # Steve's iOS Study
 
 ## TIL : [Swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8/dashboard)
+### 12월 8일 금요일
+Part2. 기본연산자 (Basic Opeartor)
+- 복합할당 / 비교 / 논리 연산자 / 연산의 우선순위 / 접근 연산자
 
 ### 12월 7일 목요일
 Part1. 변수와 상수 / 데이터 타입 (The Basics)
@@ -8,7 +11,6 @@ Part1. 변수와 상수 / 데이터 타입 (The Basics)
 
 Part2. 기본연산자 (Basic Operators)
 - 기본 연산자
-
 
 ### 12월 5일 화요일
 > 스위프트는 문법에 대해 높은 이해도를 요하는 언어이다.
