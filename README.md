@@ -1,6 +1,22 @@
 # Steve's iOS Study
 
 ## TIL : [Swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8/dashboard)
+### 12월 11일 월요일
+Part3. 프로그래밍의 기본 원리와 조건문 (Control Flow)
+- 프로그래밍의 기본원리와 if 조건문
+- 조건문 (switch문)
+- switch문의 활용
+- 연습문제 / 가위바위보 게임 만들기 / 랜덤 빙고 게임 만들기
+
+
+###  [Half-Open Range Operator](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators#Half-Open-Range-Operator)
+The half-open range operator
+    (a..<b) defines a range that runs from a to b, but doesn’t include b. It’s said to be half-open because it contains its first value, but not its final value. As with the closed range operator, the value of a must not be greater than b. If the value of a is equal to b, then the resulting range will be empty.  
+Half-open ranges are particularly useful when you work with zero-based lists such as arrays, where it’s useful to count up to (but not including) the length of the list:
+
+
+
+
 ### 12월 8일 금요일
 Part2. 기본연산자 (Basic Opeartor)
 - 복합할당 / 비교 / 논리 연산자 / 연산의 우선순위 / 접근 연산자
