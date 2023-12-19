@@ -2,6 +2,23 @@
 
 ## TIL : [Swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8/dashboard)
 
+## 12월 19일 화요일
+Part5. 삼항연산자와 범위연산자
+- 범위연산자 / 패턴매칭 연산자
+
+Part6. 반복문
+- 반복문 (for문)
+- for문 사용시 주의점
+- while문 / repeat-while문
+- 반복문의 제어전송문 (continue / break)
+- 연습문제 - 구구단/배수/논리 구성해서 출력해보기
+
+## 12월 18일 월요일
+>**기말고사 끝~**  
+
+Part5. 삼항연산자와 범위연산자
+- 삼항연산자
+
 ## 12월 12일 화요일
 Part4. 튜플(Tuple)
 - 튜플 기본
