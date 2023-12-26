@@ -2,6 +2,28 @@
 
 ## TIL : [Swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8/dashboard)
 
+## 12월 26일 화요일
+Part7. 함수(function)
+- 함수 실행의 메모리 구조
+- 조건문과 반복문의 명령어(CPU) 구조
+- 입출력(inout) 파라미터
+- guard문
+- 함수의 리턴값과 discardableResult
+- 튜플을 사용하는 이유 - 함수와 연관지어서
+
+## 12월 22일 금요일
+Part7. 함수(function)
+- 함수의 표기법(지칭) / 함수의 타입표기
+- 함수의 오버로딩
+- 범위(Scope)에 대한 이해
+- 제어전송문 정리
+
+## 12월 21일 목요일
+Part7. 함수(function)
+- 함수의 기본 개념
+- 함수의 응용
+- 함수 사용시 주의점
+
 ## 12월 19일 화요일
 Part5. 삼항연산자와 범위연산자
 - 범위연산자 / 패턴매칭 연산자
