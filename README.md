@@ -1,6 +1,12 @@
 # Steve's iOS Study
 
 ## TIL : [Swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8/dashboard)
+## 12월 27일 수요일
+Part7. 함수(function)
+- 연습문제 - 문자열 중에서 랜덤 뽑아내기 / 소수 판별
+- 연습문제 - 팩토리얼 함수 만들어보기 / 재귀함수 메모리 구조
+- print함수 제대로 알기 / API에 대한 이해
+[함수의 파라미터에 기본값(디폴트)을 정하는 방법](https://velog.io/@joonsu25/함수의-파라미터에-기본값디폴트-정하는-방법)
 
 ## 12월 26일 화요일
 Part7. 함수(function)
