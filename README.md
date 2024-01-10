@@ -1,18 +1,47 @@
 # Steve's iOS Study
 
 ## TIL : [Swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8/dashboard)
+
+## 1월 10일 수요일
+Part10. 열거형 (Enumeration)
+- 열거형의 기본 개념
+- 열거형의 원시값과 연관값
+- 옵셔널 타입에 대한 정확한 이해
+- 열거형과 switch문의 활용
+- 열거형에 연관값이 있는 경우
+- 옵셔널 패턴
+- 열거형의 unknown키워드
+
+## 1월 9일 화요일
+Part9. 컬렉션 (Collection)
+- 스위프트 컬렉션의 기본 개념 / 배열
+- 배열 다루기
+- 배열 기타 
+- 딕셔너리 / 해셔블(Hashable) 
+- 딕셔너리 다루기
+- 집합(Set)
+- 스위프트의 컬렉션 관련 이론 
+
+## 1월 5일 금요일
+Part8. 옵셔널 (Optional)
+- 옵셔널 타입의 기본 개념
+- 옵셔널값의 추출방법
+- 연습 - 옵셔널 바인딩 연습
+- 연습 - 옵셔널 바인딩 연습 (guard문)
+- 옵셔널 타입의 응용
+
 ## 12월 27일 수요일
-Part7. 함수(function)
+Part7. 함수 (function)
 - 연습문제 - 문자열 중에서 랜덤 뽑아내기 / 소수 판별
 - 연습문제 - 팩토리얼 함수 만들어보기 / 재귀함수 메모리 구조
-- print함수 제대로 알기 / API에 대한 이해
+- print함수 제대로 알기 / API에 대한 이해  
 [함수의 파라미터에 기본값(디폴트)을 정하는 방법](https://velog.io/@joonsu25/함수의-파라미터에-기본값디폴트-정하는-방법)
 
 ## 12월 26일 화요일
-Part7. 함수(function)
+Part7. 함수 (function)
 - 함수 실행의 메모리 구조
 - 조건문과 반복문의 명령어(CPU) 구조
-- 입출력(inout) 파라미터
+- 입출력(inout)파라미터
 - guard문
 - 함수의 리턴값과 discardableResult
 - 튜플을 사용하는 이유 - 함수와 연관지어서
