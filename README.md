@@ -1,6 +1,16 @@
 # Steve's iOS Study
 
 ## TIL : [Swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8/dashboard)
+## 1월 20일 토요일
+후반부에 들어가기 앞서
+스위프트의 타입 / 후반부 전체적인 큰 그림
+Part11. 클래스(Class)와 구조체(Struct)
+- 클래스와 구조체의 이해 
+- 클래스와 구조체의 차이 / 메모리 / 복사 / let 선언 
+- 초기화의 의미 
+- 초기화 관련 코드 / 클래스와 구조체의 차이 정리 
+- 클래스와 구조체 사용의 이유 / 객체지향의 4대 특징 
+
 
 ## 1월 17일 수요일
 앱 만들기 기초
