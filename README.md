@@ -1,8 +1,15 @@
 # Steve's iOS Study
 
 ## TIL : [Swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8/dashboard)
+## 1월 23일 화요일
+Part11-1. 속성(Property)과 메서드(Method)
+- 1) 인스턴스 메서드 (100강)
+- 2) 타입 메서드 (101강)
+- 3) 서브스크립트 (102강)
+- 접근 제어 / 싱글톤 패턴 (103강)
+
 ## 1월 22일 월요일
-- Part11-1. 속성(Property)과 메서드(Method)
+Part11-1. 속성(Property)과 메서드(Method)
 - 속성과 메서드 
 - 1) 저장 속성 
 - 1-2) 지연 저장 속성 (Lazy) 
