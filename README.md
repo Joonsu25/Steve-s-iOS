@@ -1,6 +1,12 @@
 # Steve's iOS Study
 
 ## TIL : [Swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8/dashboard)
+## 2월 1일 목요일
+Part12. 클래스의 상속과 초기화
+- 1) 상속의 기본 개념 
+- 클래스의 상속과 재정의
+- 메모리 구조를 통한 이해
+
 ## 1월 30일 화요일
 Part11-1. 속성(Property)과 메서드(Method)
 - 1) 인스턴스 메서드 (100강)
