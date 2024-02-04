@@ -1,6 +1,13 @@
 # Steve's iOS Study
 
 ## TIL : [Swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8/dashboard)
+## 2월 4일 일요일
+Part13. 타입캐스팅  
+- is연산자
+- as연산자 / 다운캐스팅의 정확한 의미에 대한 이해
+- 상속과 다형성
+- Any와 AnyObject를 위한 타입 캐스팅
+
 ## 2월 3일 토요일
 Part12. 클래스의 상속과 초기화
 - 지정 생성자 / 편의 생성자 상속의 예외사항
